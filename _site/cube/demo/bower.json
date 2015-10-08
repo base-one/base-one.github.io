@@ -1,0 +1,8 @@
+{
+  "name": "cube-web",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "three.js": "threejs#*"
+  }
+}
