@@ -1,0 +1,3 @@
+[submodule "cube/demo"]
+	path = cube/demo
+	url = git@github.com:base-one/cube-web
