@@ -1,14 +1,13 @@
 ---
 title: index
+layout: default
 ---
 
-# base one
+# projects
 
-## projects
+## cube
 
-### cube
-
-cube is an led-cube that is controlled via a web interface.
+cube is an led cube that is controlled via a web interface.
 
 [live demo](cube/demo)
 

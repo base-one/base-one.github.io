@@ -1,5 +1,6 @@
 ---
 title: cube
+layout: default
 ---
 
 # cube
